@@ -1,0 +1,65 @@
+Classifier Name,Fold:,Training or Test Set,Balanced or Unbalanced Train Set,Number of Training Samples,Number of Non-healthy Companies in Training Sample,True Positives (TP),True Negatives (TN),False Positives (FP),False Negatives (FN)
+Linear Discriminant Analysis,1,Train,Unbalanced,8037,186,12,7779,72,174
+Linear Discriminant Analysis,1,Test,Unbalanced,2679,62,2,2598,19,60
+Linear Discriminant Analysis,2,Train,Unbalanced,8037,186,12,7766,85,174
+Linear Discriminant Analysis,2,Test,Unbalanced,2679,62,2,2590,27,60
+Linear Discriminant Analysis,3,Train,Unbalanced,8037,186,9,7776,75,177
+Linear Discriminant Analysis,3,Test,Unbalanced,2679,62,5,2593,24,57
+Linear Discriminant Analysis,4,Train,Unbalanced,8037,186,11,7766,85,175
+Linear Discriminant Analysis,4,Test,Unbalanced,2679,62,6,2582,35,56
+Logistic Regression,1,Train,Unbalanced,8037,186,147,5945,1906,39
+Logistic Regression,1,Test,Unbalanced,2679,62,44,1955,662,18
+Logistic Regression,2,Train,Unbalanced,8037,186,43,7582,269,143
+Logistic Regression,2,Test,Unbalanced,2679,62,5,2540,77,57
+Logistic Regression,3,Train,Unbalanced,8037,186,134,5826,2025,52
+Logistic Regression,3,Test,Unbalanced,2679,62,51,1949,668,11
+Logistic Regression,4,Train,Unbalanced,8037,186,142,6189,1662,44
+Logistic Regression,4,Test,Unbalanced,2679,62,43,1983,634,19
+Decision Trees,1,Train,Unbalanced,8037,186,186,7851,0,0
+Decision Trees,1,Test,Unbalanced,2679,62,12,2561,56,50
+Decision Trees,2,Train,Unbalanced,8037,186,186,7851,0,0
+Decision Trees,2,Test,Unbalanced,2679,62,10,2549,68,52
+Decision Trees,3,Train,Unbalanced,8037,186,186,7851,0,0
+Decision Trees,3,Test,Unbalanced,2679,62,10,2544,73,52
+Decision Trees,4,Train,Unbalanced,8037,186,183,7851,0,3
+Decision Trees,4,Test,Unbalanced,2679,62,8,2544,73,54
+Random Forests,1,Train,Unbalanced,8037,186,186,7851,0,0
+Random Forests,1,Test,Unbalanced,2679,62,0,2616,1,62
+Random Forests,2,Train,Unbalanced,8037,186,186,7851,0,0
+Random Forests,2,Test,Unbalanced,2679,62,2,2617,0,60
+Random Forests,3,Train,Unbalanced,8037,186,186,7851,0,0
+Random Forests,3,Test,Unbalanced,2679,62,1,2617,0,61
+Random Forests,4,Train,Unbalanced,8037,186,186,7851,0,0
+Random Forests,4,Test,Unbalanced,2679,62,1,2615,2,61
+k-Nearest Neighbors,1,Train,Unbalanced,8037,186,186,7851,0,0
+k-Nearest Neighbors,1,Test,Unbalanced,2679,62,4,2603,14,58
+k-Nearest Neighbors,2,Train,Unbalanced,8037,186,186,7851,0,0
+k-Nearest Neighbors,2,Test,Unbalanced,2679,62,6,2607,10,56
+k-Nearest Neighbors,3,Train,Unbalanced,8037,186,186,7851,0,0
+k-Nearest Neighbors,3,Test,Unbalanced,2679,62,3,2604,13,59
+k-Nearest Neighbors,4,Train,Unbalanced,8037,186,43,7839,12,143
+k-Nearest Neighbors,4,Test,Unbalanced,2679,62,3,2606,11,59
+Naïve Bayes,1,Train,Unbalanced,8037,186,50,7399,452,136
+Naïve Bayes,1,Test,Unbalanced,2679,62,12,2463,154,50
+Naïve Bayes,2,Train,Unbalanced,8037,186,44,7396,455,142
+Naïve Bayes,2,Test,Unbalanced,2679,62,12,2488,129,50
+Naïve Bayes,3,Train,Unbalanced,8037,186,43,7398,453,143
+Naïve Bayes,3,Test,Unbalanced,2679,62,17,2475,142,45
+Naïve Bayes,4,Train,Unbalanced,8037,186,42,7430,421,144
+Naïve Bayes,4,Test,Unbalanced,2679,62,18,2455,162,44
+Support Vector Machines,1,Train,Unbalanced,8037,186,149,5995,1856,37
+Support Vector Machines,1,Test,Unbalanced,2679,62,44,1982,635,18
+Support Vector Machines,2,Train,Unbalanced,8037,186,150,5821,2030,36
+Support Vector Machines,2,Test,Unbalanced,2679,62,47,2019,598,15
+Support Vector Machines,3,Train,Unbalanced,8037,186,150,5708,2143,36
+Support Vector Machines,3,Test,Unbalanced,2679,62,54,1916,701,8
+Support Vector Machines,4,Train,Unbalanced,8037,186,146,6019,1832,40
+Support Vector Machines,4,Test,Unbalanced,2679,62,47,1938,679,15
+Multi-Layer Perceptron,1,Train,Unbalanced,8037,186,2,7851,0,184
+Multi-Layer Perceptron,1,Test,Unbalanced,2679,62,0,2616,1,62
+Multi-Layer Perceptron,2,Train,Unbalanced,8037,186,2,7850,1,184
+Multi-Layer Perceptron,2,Test,Unbalanced,2679,62,0,2617,0,62
+Multi-Layer Perceptron,3,Train,Unbalanced,8037,186,7,7851,0,179
+Multi-Layer Perceptron,3,Test,Unbalanced,2679,62,0,2617,0,62
+Multi-Layer Perceptron,4,Train,Unbalanced,8037,186,0,7851,0,186
+Multi-Layer Perceptron,4,Test,Unbalanced,2679,62,0,2617,0,62
